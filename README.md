@@ -1,4 +1,4 @@
-Hi 👋 My name is Vinicius Canuto
+Hi 👋 I'm Vini
 ================================
 
 Web Development student
