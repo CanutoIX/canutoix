@@ -4,7 +4,7 @@
 
 
 
-<h3>- 🔭 I’m currently studying at [Trybe](https://www.linkedin.com/school/betrybe/)</h3>
+- 🔭 I’m currently studying at [Trybe](https://www.linkedin.com/school/betrybe/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
